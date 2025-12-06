@@ -9,8 +9,8 @@ public class Solution4 {
         baseClass();
     }
 
-    //input -
-    //output-
+    //input - name , age 
+    //output- ravi , 23
 
     public static void baseClass() {
     }
@@ -33,3 +33,4 @@ public class Solution4 {
         }
     }
 }
+
